@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,logs.netflix.com
 DOMAIN-SUFFIX,ios.prod.ftl.netflix.com
+DOMAIN-SUFFIX,ios.prod.cloud.netflix.com
+DOMAIN-SUFFIX,ios.ngp.prod.cloud.netflix.com
+DOMAIN-SUFFIX,appboot.netflix.com
