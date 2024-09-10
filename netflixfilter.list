@@ -1,6 +1,3 @@
-DOMAIN-SUFFIX,logs.netflix.com
-DOMAIN-SUFFIX,ios.prod.ftl.netflix.com
-DOMAIN-SUFFIX,ios.prod.cloud.netflix.com
-DOMAIN-SUFFIX,ios.ngp.prod.cloud.netflix.com
-DOMAIN-SUFFIX,appboot.netflix.com
-DOMAIN-SUFFIX,occ-0-33-3997.1.nflxso.net
+DOMAIN,logs.netflix.com
+DOMAIN,ios.prod.ftl.netflix.com
+DOMAIN,ios.prod.cloud.netflix.com
