@@ -1,2 +1,2 @@
-MATCH,X-Netflix.context.operation-Name: InterstitialForUnspecifiedLocation
+DOMAIN,ios.prod.cloud.netflix.com
 DOMAIN,logs.netflix.com
