@@ -1,2 +1,2 @@
-DOMAIN,ios.prod.cloud.netflix.com
+HEADER,X-Netflix.context.operation-Name: InterstitialForUnspecifiedLocation
 DOMAIN,logs.netflix.com
