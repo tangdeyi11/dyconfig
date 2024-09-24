@@ -6,4 +6,5 @@ DOMAIN,push.prod.netflix.com
 DOMAIN,secure.netflix.com
 DOMAIN,web.prod.cloud.netflix.com
 DOMAIN,web-anycast.prod.ftl.netflix.com
+DOMAIN,api-global.netflix.com
 DOMAIN,logs.netflix.com
