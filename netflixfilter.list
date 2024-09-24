@@ -8,6 +8,5 @@ DOMAIN,web.prod.cloud.netflix.com
 DOMAIN,web-anycast.prod.ftl.netflix.com
 DOMAIN,api-global.netflix.com
 DOMAIN,logs.netflix.com
-IP-CIDR,54.214.211.140/32,no-resolve
-IP-CIDR,54.185.88.232/32,no-resolve
-IP-CIDR,54.189.90.167/32,no-resolve
+DOMAIN,ninja.netflix.com
+DOMAIN,com.netflix.ninja
