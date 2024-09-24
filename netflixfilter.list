@@ -1,5 +1,2 @@
-DOMAIN,ios.prod.cloud.netflix.com
-DOMAIN,ios-anycast.prod.ftl.netflix.com
 DOMAIN-SUFFIX,prod.cloud.netflix.com
 DOMAIN-SUFFIX,prod.ftl.netflix.com
-DOMAIN,logs.netflix.com
