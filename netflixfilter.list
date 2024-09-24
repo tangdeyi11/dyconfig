@@ -10,3 +10,4 @@ DOMAIN,api-global.netflix.com
 DOMAIN,logs.netflix.com
 DOMAIN,ninja.netflix.com
 DOMAIN,com.netflix.ninja
+DOMAIN,nrdp-ipv6.prod.ftl.netflix.com
