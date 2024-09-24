@@ -5,5 +5,5 @@ DOMAIN,android-anycast.prod.ftl.netflix.com
 DOMAIN,androidtv.prod.cloud.netflix.com
 DOMAIN,androidtv-anycast.prod.ftl.netflix.com
 DOMAIN,web.prod.cloud.netflix.com
-DOMAIN,web-anycast.prod.cloud.netflix.com
+DOMAIN,web-anycast.prod.ftl.netflix.com
 DOMAIN,logs.netflix.com
