@@ -1,13 +1,8 @@
 DOMAIN,ios.prod.cloud.netflix.com
 DOMAIN,ios-anycast.prod.ftl.netflix.com
 DOMAIN,nrdp.prod.cloud.netflix.com
-DOMAIN,nrdp.ws.ale.netflix.com
-DOMAIN,push.prod.netflix.com
 DOMAIN,secure.netflix.com
 DOMAIN,web.prod.cloud.netflix.com
 DOMAIN,web-anycast.prod.ftl.netflix.com
-DOMAIN,api-global.netflix.com
 DOMAIN,logs.netflix.com
-DOMAIN,ninja.netflix.com
 DOMAIN,ninja.prod.cloud.netflix.com
-DOMAIN,nrdp-ipv6.prod.ftl.netflix.com
