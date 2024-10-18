@@ -1,8 +1,14 @@
+DOMAIN,appboot.netflix.com
 DOMAIN,ios.prod.cloud.netflix.com
+DOMAIN,ios.ngp.prod.cloud.netflix.com
 DOMAIN,ios-anycast.prod.ftl.netflix.com
+DOMAIN,tvos-appboot.netflix.com
 DOMAIN,tvos.prod.cloud.netflix.com
+DOMAIN,tvos.ngp.prod.cloud.netflix.com
 DOMAIN,tvos-anycast.prod.ftl.netflix.com
-DOMAIN,anycast.prod.ftl.netflix.com
+DOMAIN,android-appboot.netflix.com
 DOMAIN,android.prod.cloud.netflix.com
-DOMAIN,logs.netflix.com
+DOMAIN,android.ngp.prod.cloud.netflix.com
 DOMAIN,android-anycast.prod.ftl.netflix.com
+DOMAIN,logs.netflix.com
+DOMAIN,anycast.prod.ftl.netflix.com
