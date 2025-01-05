@@ -12,4 +12,4 @@ DOMAIN,android.ngp.prod.cloud.netflix.com
 DOMAIN,android-anycast.prod.ftl.netflix.com
 DOMAIN,logs.netflix.com
 DOMAIN,anycast.prod.ftl.netflix.com
-DOMAIN,nrdp.prod.cloud.netflix.com
+DOMAIN,nrdp.ws.ale.netflix.com
