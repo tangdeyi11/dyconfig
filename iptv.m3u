@@ -138,7 +138,7 @@ https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-id="云南卫视" tvg-logo="https://live.zbds.top/logo/云南卫视.png" group-title="卫视频道", 云南卫视
 http://123.7.110.43:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://live.zbds.top/logo/浙江卫视.png" group-title="卫视频道", 浙江卫视
-http://223.105.252.8/PLTV/4/224/3221228147/index.m3u8
+http://219.145.93.74:9999/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="https://live.zbds.top/logo/重庆卫视.png" group-title="卫视频道", 重庆卫视
 http://58.57.40.22:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="南方卫视" tvg-id="南方卫视" tvg-logo="https://live.zbds.top/logo/南方卫视.png" group-title="卫视频道", 南方卫视
