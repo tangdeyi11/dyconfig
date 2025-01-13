@@ -92,7 +92,7 @@ http://220.164.192.48:50085/tsfile/live/0116_1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-id="湖北卫视" tvg-logo="https://live.zbds.top/logo/湖北卫视.png" group-title="卫视频道", 湖北卫视
 http://220.164.192.48:50085/tsfile/live/0123_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-id="湖南卫视" tvg-logo="https://live.zbds.top/logo/湖南卫视.png" group-title="卫视频道", 湖南卫视
-http://39.134.13.35:6610/180000001001/00000001000000000007000000001242/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-id="吉林卫视" tvg-logo="https://live.zbds.top/logo/吉林卫视.png" group-title="卫视频道", 吉林卫视
 http://123.7.110.43:9901/tsfile/live/0112_1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="江苏卫视" tvg-logo="https://live.zbds.top/logo/江苏卫视.png" group-title="卫视频道", 江苏卫视
