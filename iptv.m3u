@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.zbds.top"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://live.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
-http://123.113.251.39:8888/udp/239.3.1.129:8008
+http://119.113.230.249:4000//udp/232.0.0.27:8808
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://live.zbds.top/logo/CCTV2.png" group-title="央视频道", CCTV2
 http://117.144.58.42:35455/gaoma/cctv2.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://live.zbds.top/logo/CCTV3.png" group-title="央视频道", CCTV3
