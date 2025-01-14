@@ -72,7 +72,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="卫视频道", 东方卫视
 http://39.164.160.249:9901/tsfile/live/0107_1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视2" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="卫视频道", 东方卫视
-https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv13_1_md.m3u8
+https://hlsliveali-cdn.ysp.cctv.cn/967056C6CA224183E6F0E5BF96E2B214B9920B3798C996431FF9B0DC014EF2250C0D72F78957A5BC90AE2EFAC71B4ACFED786BD4043FB37FC58F0D2C19BE6D95162F5667DF6142D994416DDEE2E44D5F2439400ACB4121AC1CE86C0182496BDB52796997BF134B96ABE474ECB9FA1658/2024054802_web.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视3" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="卫视频道", 东方卫视
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视4" tvg-logo="https://live.zbds.top/logo/东方卫视.png" group-title="卫视频道", 东方卫视
