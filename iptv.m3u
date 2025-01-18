@@ -22,7 +22,7 @@ http://113.234.221.190:4022/udp/232.0.0.134:9148
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="CCTV10" tvg-logo="https://live.zbds.top/logo/CCTV10.png" group-title="央视频道", CCTV10
 http://113.234.221.190:4022/udp/232.0.0.135:9150
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://live.zbds.top/logo/CCTV11.png" group-title="央视频道", CCTV11
-http://124.64.219.74:8686/udp/232.0.0.27:8808
+http://124.64.219.74:8686/udp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://live.zbds.top/logo/CCTV12.png" group-title="央视频道", CCTV12
 http://113.234.221.190:4022/udp/232.0.0.136:9152
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://live.zbds.top/logo/CCTV13.png" group-title="央视频道", CCTV13
