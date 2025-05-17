@@ -1,4 +1,8 @@
 {
+  "log": {
+    "level": "info",
+    "output": "console"
+  },
   "dns": {
     "servers": [
       {
@@ -22,7 +26,7 @@
         "detour": "DIRECT"
       },
       {
-        "tag": "block",
+        "tag": "dns_block",
         "address": "rcode://success"
       }
     ],
@@ -52,5 +56,19 @@
       "enabled": true,
       "inet4_range": "198.18.0.0/15"
     }
+  },
+  "outbounds": [
+    {
+      "type": "direct",
+      "tag": "DIRECT"
+    },
+    {
+      "type": "block",
+      "tag": "BLOCK"
+    }
+  ],
+  "route": {
+    "rules": [],
+    "auto_detect_interface": true
   }
 }
