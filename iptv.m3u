@@ -1,43 +1,43 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1
 http://ipaddress/udp/239.3.1.129:8008
-#EXTINF:-1 ,CCTV-2财经[高清]
+#EXTINF:-1 ,CCTV-2
 http://ipaddress/udp/239.3.1.60:8084
-#EXTINF:-1 ,CCTV-3综艺[高清]
+#EXTINF:-1 ,CCTV-3
 http://ipaddress/udp/239.3.1.172:8001
-#EXTINF:-1 ,CCTV-4中文国际[高清]
+#EXTINF:-1 ,CCTV-4
 http://ipaddress/udp/239.3.1.105:8092
 #EXTINF:-1 ,CCTV-4 中文国际 欧洲[高清]
 http://ipaddress/udp/239.3.1.213:4220
 #EXTINF:-1 ,CCTV-4 中文国际 美洲[高清]
 http://ipaddress/udp/239.3.1.214:4220
-#EXTINF:-1 ,CCTV-5体育[高清]
+#EXTINF:-1 ,CCTV-5
 http://ipaddress/udp/239.3.1.173:8001
-#EXTINF:-1 ,CCTV5+[高清]
+#EXTINF:-1 ,CCTV5+
 http://ipaddress/udp/239.3.1.130:8004
-#EXTINF:-1 ,CCTV-6电影[高清]
+#EXTINF:-1 ,CCTV-6
 http://ipaddress/udp/239.3.1.174:8001
-#EXTINF:-1 ,CCTV-7国防军事[高清]
+#EXTINF:-1 ,CCTV-7
 http://ipaddress/udp/239.3.1.61:8104
-#EXTINF:-1 ,CCTV-8电视剧[高清]
+#EXTINF:-1 ,CCTV-8
 http://ipaddress/udp/239.3.1.175:8001
-#EXTINF:-1 ,CCTV-9纪录[高清]
+#EXTINF:-1 ,CCTV-9
 http://ipaddress/udp/239.3.1.62:8112
-#EXTINF:-1 ,CCTV-10科教[高清]
+#EXTINF:-1 ,CCTV-10
 http://ipaddress/udp/239.3.1.63:8116
-#EXTINF:-1 ,CCTV-11戏曲[高清]
+#EXTINF:-1 ,CCTV-11
 http://ipaddress/udp/239.3.1.152:8120
-#EXTINF:-1 ,CCTV-12社会与法[高清]
+#EXTINF:-1 ,CCTV-12
 http://ipaddress/udp/239.3.1.64:8124
-#EXTINF:-1 ,CCTV-13新闻[高清]
+#EXTINF:-1 ,CCTV-13
 http://ipaddress/udp/239.3.1.124:8128
-#EXTINF:-1 ,CCTV-14少儿[高清]
+#EXTINF:-1 ,CCTV-14
 http://ipaddress/udp/239.3.1.65:8132
-#EXTINF:-1 ,CCTV-15音乐[高清]
+#EXTINF:-1 ,CCTV-15
 http://ipaddress/udp/239.3.1.153:8136
-#EXTINF:-1 ,CCTV-16奥林匹克频道[高清]
+#EXTINF:-1 ,CCTV-16
 http://ipaddress/udp/239.3.1.184:8001
-#EXTINF:-1 ,CCTV-17农业农村[高清]
+#EXTINF:-1 ,CCTV-17
 http://ipaddress/udp/239.3.1.151:8144
 #EXTINF:-1 ,CCTV-16奥林匹克频道[4K]1
 http://ipaddress/udp/239.3.1.97:8001
