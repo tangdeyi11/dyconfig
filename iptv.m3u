@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1 综合
+#EXTINF:-1 ,CCTV-1
 http://ipaddress/udp/239.3.1.129:8008
 #EXTINF:-1 ,CCTV-2财经[高清]
 http://ipaddress/udp/239.3.1.60:8084
