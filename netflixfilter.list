@@ -17,3 +17,6 @@ DOMAIN,api-global.netflix.com
 DOMAIN,nrdp.ws.ale.netflix.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,featureassets.org
